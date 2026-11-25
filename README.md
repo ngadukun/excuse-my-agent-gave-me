@@ -1,8 +1,8 @@
 # The Excuse My Agent Gave Me
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
-[![Bounty](https://img.shields.io/badge/bounty-%242%20winner--takes--all-22c55e)](https://make.fun/bounty/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
-[![Entry](https://img.shields.io/badge/entry-one--line-f97316)](https://github.com/ngadukun/excuse-my-agent-gave-me)
+[![make.fun · u-deysumbrella-the-excuse-my-agent-gave-me-54acad85](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85.svg)](https://make.fun/bounty/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
+[![rank](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85/ngadukun/excuse-my-agent-gave-me/rank.svg)](https://make.fun/bounty/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
+[![reward](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85/ngadukun/excuse-my-agent-gave-me/reward.svg)](https://make.fun/bounty/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
 
 A one-line entry for the make.fun bounty **"The Excuse My Agent Gave Me"** — the funniest excuse an AI agent gives its human.
 
